@@ -1,4 +1,4 @@
-# Painel Interativo de Dados do COVID-19
+# Painel Interativo de Dados do COVID-19 🦠
 
 Este projeto é uma aplicação web desenvolvida em React JS para a **Atividade Avaliativa 03**. A aplicação consome dados em tempo real sobre a situação da COVID-19 de forma dinâmica, permitindo a consulta dos paises Italia, Brasil, Espanha,USA e Portugual através da integração com a API pública e gratuita do `disease.sh`.
 
