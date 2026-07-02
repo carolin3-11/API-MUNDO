@@ -9,7 +9,7 @@ Este projeto é uma aplicação web desenvolvida em React JS para a **Atividade 
 - **Consumo de API Web:** Integração assíncrona com os endpoints globais do `disease.sh`.
 - **Filtro por País:** Painel dinâmico que atualiza a bandeira, população e dados médicos baseado no país selecionado (Itália, Brasil, Portugal, etc).
 - **Atualização em Tempo Real:** Botão para refazer a requisição à API (refresh) sem necessidade de recarregar a página.
-- **Interface Responsiva:** Layout moderno estruturado em Grid e Flexbox com efeitos visuais em CSS puro.
+
 
 ## 🚀 Tecnologias e Bibliotecas Utilizadas
 - **React JS** (Biblioteca principal - Componentização e Estados)
