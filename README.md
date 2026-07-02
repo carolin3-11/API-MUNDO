@@ -1,9 +1,9 @@
 # Dashboard Interativo de Dados do COVID-19
 
-Este projeto é uma aplicação web desenvolvida em React JS para a **Atividade Avaliativa 03**. A aplicação consome dados em tempo real sobre a situação da COVID-19 de forma dinâmica, permitindo a consulta de múltiplos países através da integração com a API pública e gratuita do `disease.sh`.
+Este projeto é uma aplicação web desenvolvida em React JS para a **Atividade Avaliativa 03**. A aplicação consome dados em tempo real sobre a situação da COVID-19 de forma dinâmica, permitindo a consulta dos paises Italia, Brasil, Espanha,USA e Portugual através da integração com a API pública e gratuita do `disease.sh`.
 
 ## 🔗 Link da Aplicação no Ar
-- Acesse o projeto publicado na Vercel: [ em breve]
+- Acesse o projeto publicado na Vercel: [ https://api-mundo.vercel.app/]
 
 ## ✨ Funcionalidades
 - **Consumo de API Web:** Integração assíncrona com os endpoints globais do `disease.sh`.
@@ -20,4 +20,5 @@ Este projeto é uma aplicação web desenvolvida em React JS para a **Atividade 
 
 1. Clone o repositório para a sua máquina:
    ```bash
-   git clone [ em breve]
+   git clone [ https://github.com/carolin3-11/API-MUNDO.git]
+
